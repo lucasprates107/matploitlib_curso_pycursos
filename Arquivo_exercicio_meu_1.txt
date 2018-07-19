@@ -1,0 +1,4 @@
+Brasil|207.7
+Alemanha|82.67
+Japao|127
+Russia|144.3
